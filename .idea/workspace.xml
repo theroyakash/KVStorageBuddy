@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a299bd-b1c5-4d64-8bfa-196f79f612a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/KVStorageBuddy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KVStoreMainWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/frozen_application_license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/gui_service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/iconengines/libqsvgicon.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqgif.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqicns.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqico.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqjpeg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqmacheif.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqmacjp2.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqpdf.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqsvg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqtga.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqtiff.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqwbmp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/imageformats/libqwebp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/networkinformation/libqscnetworkreachability.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/platforms/libqcocoa.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/platforms/libqminimal.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/platforms/libqoffscreen.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/styles/libqmacstyle.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/tls/libqcertonlybackend.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/tls/libqopensslbackend.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_fa.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_fi.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_gd.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_gl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_he.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_hr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ka.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_lt.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_lv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_nl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_nn.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_pt_BR.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_pt_PT.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_sl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_sv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_zh_CN.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qt_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ar.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_bg.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ca.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_cs.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_da.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_de.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_en.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_es.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_fa.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_fi.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_fr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_gd.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_he.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_hr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_hu.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_it.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ja.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ka.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ko.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_lv.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_nl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_nn.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_pl.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_pt_BR.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_ru.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_sk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_tr.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_uk.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_zh_CN.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/Qt/translations/qtbase_zh_TW.qm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/QtCore.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/QtGui.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/QtNetwork.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/PySide6/QtWidgets.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/Python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtDBus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtGui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtNetwork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtOpenGL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtPdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtQml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtQmlModels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtQuick" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtSvg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtVirtualKeyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/QtWidgets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_bisect.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_blake2.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_bz2.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_cn.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_hk.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_iso2022.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_jp.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_kr.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_codecs_tw.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_contextvars.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_csv.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_datetime.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_dbm.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_decimal.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_hashlib.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_heapq.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_lzma.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_md5.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_multibytecodec.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_opcode.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_pickle.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_posixsubprocess.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_random.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_sha1.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_sha2.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_sha3.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_socket.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_statistics.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/_struct.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/array.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/binascii.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/email/architecture.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/fcntl.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/grp.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/libcrypto.3.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/libpyside6.abi3.6.7.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/library.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/libshiboken6.abi3.6.7.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/math.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/select.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/shiboken6/Shiboken.abi3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/shiboken6/Shiboken.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/shiboken6/libshiboken6.abi3.6.7.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/shiboken6/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/unicodedata.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/exe.macosx-10.9-universal2-3.12/lib/zlib.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2h4BD5xcOxvAqPjslR8YcoT9EBp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.gui_service.executor": "Debug",
+    "Python.mainwindow.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="gui_service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KVStorageBuddy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_service.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui_service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a299bd-b1c5-4d64-8bfa-196f79f612a6" name="Changes" comment="" />
+      <created>1716843346879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716843346879</updated>
+      <workItem from="1716843354279" duration="2231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KVStorageBuddy$mainwindow.coverage" NAME="gui_service Coverage Results" MODIFIED="1716845553931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
