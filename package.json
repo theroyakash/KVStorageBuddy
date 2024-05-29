@@ -1,0 +1,29 @@
+{
+  "name": "kvstoragebuddy",
+  "version": "1.69.420",
+  "description": "Key-Value storage and easy-copy service on any platform for commonly reused texts.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "packagemac": "electron-forge make",
+    "packagewin": "electron-forge make --platform=win32",
+    "buildcss": "postcss tailwind.css -o public/build/tailwind.css"
+  },
+  "author": "theroyakash",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "electron": "^30.0.8",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  },
+  "extraFiles": [
+    "audio",
+    "icon"
+  ],
+  "dependencies": {
+    "electron-forge": "^5.2.4"
+  }
+}
