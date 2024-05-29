@@ -3,8 +3,8 @@ const path = require('path');
 
 const createMainWindow = () => {
     const window = new BrowserWindow({
-        title: "AmbientBuddy",
-        width: 1400,
+        title: "KVStorageBuddy",
+        width: 900,
         height: 900,
         webPreferences: {
             nodeIntegration: true

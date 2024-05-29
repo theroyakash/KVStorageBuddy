@@ -1,7 +1,8 @@
 {
-  "name": "kvstoragebuddy",
-  "version": "1.69.420",
-  "description": "Key-Value storage and easy-copy service on any platform for commonly reused texts.",
+  "name": "kvsb",
+  "productName": "KVStorageBuddy",
+  "version": "1.0.0",
+  "description": "My Electron application description",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,19 +12,28 @@
     "packagewin": "electron-forge make --platform=win32",
     "buildcss": "postcss tailwind.css -o public/build/tailwind.css"
   },
-  "author": "theroyakash",
-  "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "electron": "^30.0.8",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
+    "@electron-forge/cli": "^7.4.0",
+    "@electron-forge/maker-deb": "^7.4.0",
+    "@electron-forge/maker-rpm": "^7.4.0",
+    "@electron-forge/maker-squirrel": "^7.4.0",
+    "@electron-forge/maker-zip": "^7.4.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
+    "@electron-forge/plugin-fuses": "^7.4.0",
+    "@electron/fuses": "^1.8.0",
+    "electron": "30.0.9"
   },
-  "extraFiles": [
-    "audio",
-    "icon"
-  ],
+  "keywords": [],
+  "author": {
+    "name": "theroyakash",
+    "email": "royakashappleid@icloud.com"
+  },
+  "license": "MIT",
   "dependencies": {
-    "electron-forge": "^5.2.4"
+    "autoprefixer": "^10.4.19",
+    "electron-squirrel-startup": "^1.0.1",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.3"
   }
 }
